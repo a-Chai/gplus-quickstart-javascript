@@ -1,0 +1,28 @@
+{
+  "name": "gplus-quickstart-javascript",
+  "version": "1.0.0",
+  "description": "Anthony's version",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-Chai/gplus-quickstart-javascript.git"
+  },
+  "keywords": [
+    "google",
+    "plus",
+    "quickstart",
+    "tutorial"
+  ],
+  "author": "Anthony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-Chai/gplus-quickstart-javascript/issues"
+  },
+  "homepage": "https://github.com/a-Chai/gplus-quickstart-javascript#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
